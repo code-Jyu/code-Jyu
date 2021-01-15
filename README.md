@@ -12,7 +12,8 @@ I am a resilient, dedicated and methodical person who is always willing to learn
 
 You can find in my repositories my main project I worked on while I was in Ironhack:
 
-- C
+- [Coffee Analysis](https://github.com/code-Jyu/Coffee-Analysis)
+- [Real Estate Barcelona](https://github.com/code-Jyu/Real-Estate-Barcelona)
 
 
 
