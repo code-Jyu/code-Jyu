@@ -8,7 +8,7 @@ I was self-taught for a while but eventually I decided to join a Master's Degree
 
 This are my main IT skills: Python, MySQL, Machine Learning, Web Scrapping & API's, Matplotlib, Seaboarn, Git and Tableau.
 
-I am a resilient, dedicated and methodical person who is always willing to learn. I am so excited about what I am doing right now 😄
+I am a resilient, dedicated and enthusiastic person who is always willing to learn. I am so excited about what I am doing right now 😄
 
 You can find in my repositories my main projects I worked on while I was in Ironhack:
 
