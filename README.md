@@ -1,6 +1,11 @@
 ### Hi there 👋 I am Jorge González
 
-I am 
+I have just finished my Master in Data Analytics and I am so excited to start a career in the Tech World ⚡.
+
+I worked in Canada and UK as Architect for 7 years. Gaining IT experience in the past years managing and handling
+project data information, I realized that some coding skills were needed. 
+I was self
+
 
 
 <!--
