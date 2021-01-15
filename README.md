@@ -1,4 +1,4 @@
-## Hi there 👋 I am Jorge González
+### Hi there 👋 I am Jorge González
 
 I have just finished a Master in Data Analytics and I am so excited to start a career in the Tech World ⚡.
 
