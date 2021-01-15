@@ -10,12 +10,12 @@ This are my main IT skills: Python, MySQL, Machine Learning, Web Scrapping & API
 
 I am a resilient, dedicated and methodical person who is always willing to learn. I am so excited about what I am doing right now 😄
 
-You can find in my repositories my main project I worked on while I was in Ironhack:
+You can find in my repositories my main projects I worked on while I was in Ironhack:
 
 - [Coffee Analysis](https://github.com/code-Jyu/Coffee-Analysis)
 - [Real Estate Barcelona](https://github.com/code-Jyu/Real-Estate-Barcelona)
 
-
+Happy to help in any question 💬 you may have!!
 
 <!--
 **code-Jyu/code-Jyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
