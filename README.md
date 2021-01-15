@@ -1,4 +1,7 @@
-### Hi there 👋 fdfjd
+### Hi there 👋 I am Jorge González
+
+I am 
+
 
 <!--
 **code-Jyu/code-Jyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
