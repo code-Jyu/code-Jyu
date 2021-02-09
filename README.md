@@ -6,7 +6,7 @@ I worked in Canada and UK as Architect for 7 years. Gaining IT experience in the
 project data information, I realized that some coding skills were needed. 
 I was self-taught for a while but eventually I decided to join a Master's Degree Program in Analytics.
 
-This are my main IT skills: Python, MySQL, Machine Learning, Web Scrapping & API's, Matplotlib, Seaboarn, Git and Tableau.
+This are my main IT skills: Python, MySQL, Machine Learning, Web Scrapping & API's, Matplotlib, Seaborn, Git and Tableau.
 
 I am a resilient, dedicated and enthusiastic person who is always willing to learn. I am so excited about what I am doing right now 😄
 
